@@ -1,0 +1,8 @@
+Login: admin
+Password: 53392490226aa7a544252528df2a7887e80b7c91b6b1cf5bb3714767bbfb6a45c9c14c27adf9f0515ffc97c053b8dfc65c962617b0fc4c1d270c530243c00692
+Name: Admin
+Surname: Vadym
+Address: Kovel
+Phone: 389874563
+Is Admin: Yes
+
